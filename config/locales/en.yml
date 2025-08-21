@@ -47,6 +47,14 @@ en:
     submit:
       create: "Create"
       update: "Update"
+  categories:
+    new:
+      header: 'New Category'
+      link_back: 'Categories'
+    edit:
+      header: 'Edit Category'
+    index:
+      header: 'Categories'
   transactions:
     index:
       header: 'Transactions'
