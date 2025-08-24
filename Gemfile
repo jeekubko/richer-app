@@ -65,8 +65,9 @@ end
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
+  gem 'rspec-rails', '~> 6.1.0'
   gem 'capybara'
   gem 'selenium-webdriver'
 end
 
-gem "devise", "~> 4.9"
+gem 'devise', '~> 4.9'
